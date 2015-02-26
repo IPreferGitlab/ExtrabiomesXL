@@ -5,7 +5,7 @@ config.cautia.comment=Mettez cautia sur "true" pour augmenter la difficulté.
 config.fabrica.comment=Mettez fabrica sur "true" pour activer les objets craftables.
 config.summa.comment=Mettez summa sur "false" pour désactiver le mod.
 
-item.extrabiomes.scarecrow.name=Épouvantail
+item.extrabiomes.scarecrow.name=Épouventail
 item.extrabiomes.logturner.name=Buch'orienteur
 
 log.message.initializing=Initialisation.
